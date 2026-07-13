@@ -1,0 +1,37 @@
+{
+    "name": "供給状況検索",
+    "short_name": "供給検索",
+    "id": "./",
+    "start_url": ".",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#2E7D32",
+    "description": "医薬品の供給状況、出荷状況、代替候補を検索できるアプリです。",
+    "lang": "ja",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
