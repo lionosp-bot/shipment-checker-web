@@ -1,6 +1,6 @@
 {
-    "name": "供給状況検索",
-    "short_name": "供給検索",
+    "name": "出荷調整確認",
+    "short_name": "出荷調整確認",
     "id": "./",
     "start_url": ".",
     "scope": "./",
